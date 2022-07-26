@@ -38,9 +38,12 @@ body{
 }
 
 img.gray {
-                -webkit-filter: grayscale(100%);
-                filter: grayscale(100%);
-            }
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+p.bio {
+  font-size:1.0em;
+}
 a{color: #52739e; text-decoration:none;}
 a.current{color: #52739e;}
 a.current:hover{color: #e82945;}
