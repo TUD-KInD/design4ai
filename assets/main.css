@@ -42,7 +42,7 @@ img.gray {
   filter: grayscale(100%);
 }
 p.bio {
-  font-size:1.0em;
+  font-size:0.9em;
 }
 a{color: #52739e; text-decoration:none;}
 a.current{color: #52739e;}
