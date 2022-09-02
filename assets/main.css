@@ -48,6 +48,7 @@ body{
   border: 2px solid #ffffff; /* Green */
   transition-duration: 0.2s;
   cursor: pointer;
+  border: 2px solid gray;
 }
 
 .button_register:hover {
